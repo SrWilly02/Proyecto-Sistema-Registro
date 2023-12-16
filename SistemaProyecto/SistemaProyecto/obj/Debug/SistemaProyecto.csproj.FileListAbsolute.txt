@@ -1,0 +1,17 @@
+C:\Users\USER\Desktop\SistemaProyecto\SistemaProyecto\bin\Debug\SistemaProyecto.exe.config
+C:\Users\USER\Desktop\SistemaProyecto\SistemaProyecto\bin\Debug\SistemaProyecto.exe
+C:\Users\USER\Desktop\SistemaProyecto\SistemaProyecto\bin\Debug\SistemaProyecto.pdb
+C:\Users\USER\Desktop\SistemaProyecto\SistemaProyecto\bin\Debug\CapaEntidad.dll
+C:\Users\USER\Desktop\SistemaProyecto\SistemaProyecto\bin\Debug\CapaNegocio.dll
+C:\Users\USER\Desktop\SistemaProyecto\SistemaProyecto\bin\Debug\CapaDatos.dll
+C:\Users\USER\Desktop\SistemaProyecto\SistemaProyecto\bin\Debug\CapaEntidad.pdb
+C:\Users\USER\Desktop\SistemaProyecto\SistemaProyecto\bin\Debug\CapaNegocio.pdb
+C:\Users\USER\Desktop\SistemaProyecto\SistemaProyecto\bin\Debug\CapaDatos.pdb
+C:\Users\USER\Desktop\SistemaProyecto\SistemaProyecto\obj\Debug\SistemaProyecto.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\SistemaProyecto\SistemaProyecto\obj\Debug\SistemaProyecto.Form1.resources
+C:\Users\USER\Desktop\SistemaProyecto\SistemaProyecto\obj\Debug\SistemaProyecto.Properties.Resources.resources
+C:\Users\USER\Desktop\SistemaProyecto\SistemaProyecto\obj\Debug\SistemaProyecto.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\SistemaProyecto\SistemaProyecto\obj\Debug\SistemaProyecto.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\SistemaProyecto\SistemaProyecto\obj\Debug\SistemaProyecto.csproj.CopyComplete
+C:\Users\USER\Desktop\SistemaProyecto\SistemaProyecto\obj\Debug\SistemaProyecto.exe
+C:\Users\USER\Desktop\SistemaProyecto\SistemaProyecto\obj\Debug\SistemaProyecto.pdb
